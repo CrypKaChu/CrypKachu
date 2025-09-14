@@ -11,7 +11,7 @@ I’m a cybersecurity professional passionate. This portfolio showcases my techn
 - **Programming & Scripting:** Python, Bash, SQL
 - **Networking & Analysis:** Wireshark, Nmap, TCPDump
 - **Security Tools & Platforms:** Splunk, ELK Stack, Burp Suite, Metasploit
-- **Cloud Security:** AWS, Azure AD
+- **Cloud Security:** AWS
 - **Operating Systems:** Linux (Kali, Ubuntu), Windows Server, macOS
 
 ### 📂 Key Projects
