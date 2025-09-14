@@ -19,7 +19,6 @@ I’m a cybersecurity professional passionate. This portfolio showcases my techn
 - **OSINT Recon Toolkit**
 A Python-based reconnaissance tool for subdomain enumeration and service fingerprinting.
 *Skills:* Python, OSINT, network reconnaissance.
-[View Repository](https://github.com/<username>/<repo>)
 
 
 ### 📬 Connect With Me
